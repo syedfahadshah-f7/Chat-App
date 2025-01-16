@@ -65,14 +65,6 @@ This project is a **Chat Application** built using Java that allows two users to
 
 - To terminate the chat, either user can type `bye` and press Enter. The application will close the connection and exit gracefully.
 
-## Screenshots
-
-### Client GUI
-![Client GUI Screenshot](path/to/client-screenshot.png)
-
-### Server GUI
-![Server GUI Screenshot](path/to/server-screenshot.png)
-
 ## Future Enhancements
 
 - **User Authentication**: Add login functionality to authenticate users.

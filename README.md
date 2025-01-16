@@ -72,10 +72,6 @@ This project is a **Chat Application** built using Java that allows two users to
 - **Message Encryption**: Implement end-to-end encryption for secure communication.
 - **File Sharing**: Enable users to send and receive files.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Author
 
 [Syed Fahad Faheem Shah](https://github.com/SyedFahadShah-f7)
